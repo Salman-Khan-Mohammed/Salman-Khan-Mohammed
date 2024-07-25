@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://salman.io]([https://www.pxfuel.com/en/desktop-wallpaper-cxhvq](https://www.pxfuel.com/en/desktop-wallpaper-cxhvq)))
+[![MasterHead](https://cdn.pixabay.com/photo/2017/05/09/23/13/artificial-intelligence-2292992_1280.jpg)](https://rishavchanda.io)
+(https://www.pxfuel.com/en/desktop-wallpaper-cxhvq)))
 <h1 align="center">Hi 👋, I'm Mohammed Salman Khan</h1>
 <h3 align="center">Seasoned data scientist with a fervent dedication to unraveling the stories hidden within data. Proficient in machine learning, statistics, and visualization.A passionate frontend developer from India</h3>
 
