@@ -1,7 +1,9 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2017/05/09/23/13/artificial-intelligence-2292992_1280.jpg)](https://rishavchanda.io)
-(https://www.pxfuel.com/en/desktop-wallpaper-cxhvq)))
+
 <h1 align="center">Hi 👋, I'm Mohammed Salman Khan</h1>
 <h3 align="center">Seasoned data scientist with a fervent dedication to unraveling the stories hidden within data. Proficient in machine learning, statistics, and visualization.A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-khan-mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="salman-khan-mohammed" /> </p>
 
