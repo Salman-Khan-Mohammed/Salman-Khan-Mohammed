@@ -21,11 +21,11 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/Salman-Khan-Mohammed?tab=repositories)
 
-- 💬 Ask me about **Data Science Projects , Machine Learning Algorithms, AI and ML Tools, Data Analysis, Python Programming, Cloud Computing,**
+- 💬 Ask me about:- **Data Science Projects , Machine Learning Algorithms, AI and ML Tools, Data Analysis, Python Programming, Cloud Computing**
 
 - 📫 How to reach me **mohammedsalman65257@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1myKS8vthp_v1fsRqmLS-YXHqd1bq8K9P/view?usp=sharing](https://drive.google.com/file/d/1myKS8vthp_v1fsRqmLS-YXHqd1bq8K9P/view?usp=sharing)
+- 📄Learn about my experiences by reviewing [my resume](https://drive.google.com/file/d/1myKS8vthp_v1fsRqmLS-YXHqd1bq8K9P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
