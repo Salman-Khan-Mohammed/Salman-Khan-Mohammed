@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on [Recommendor System](https://github.com/Salman-Khan-Mohammed/Recommendor-System)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Salman-Khan-Mohammed?tab=repositories](https://github.com/Salman-Khan-Mohammed?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/Salman-Khan-Mohammed?tab=repositories)
 
 - 💬 Ask me about **Data Science Projects , Machine Learning Algorithms, AI and ML Tools, Data Analysis, Python Programming, Cloud Computing,**
 
