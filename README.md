@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **mohammedsalman65257@gmail.com**
 
-- 📄Learn about my experiences by reviewing [my resume](https://drive.google.com/file/d/1myKS8vthp_v1fsRqmLS-YXHqd1bq8K9P/view?usp=sharing)
+- 📄Learn about my experiences by reviewing [my resume](https://drive.google.com/file/d/1dxj-ALKf4q6cE4CtKup15VQXFD73z0QY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
