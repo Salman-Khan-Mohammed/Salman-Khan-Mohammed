@@ -1,23 +1,15 @@
 <a>
-  <img src="https://drive.google.com/uc?export=view&id=1Xwbx7myeXar6SmkMXXB_85cEP-txuMXK" alt="MasterHead" width="800" height="400">
+ <img src="https://drive.google.com/uc?export=view&id=1Xwbx7myeXar6SmkMXXB_85cEP-txuMXK" style="display: block; margin-left: auto; margin-right: auto;" alt="MasterHead" width="900" height="400">
+
 </a>
 
 <h1 align="center">Hi 👋, I'm Mohammed Salman Khan</h1>
 <h3 align="center">A seasoned data scientist with extensive experience in data analysis, dedicated to uncovering the narratives embedded within data. Proficient in machine learning, statistical analysis, and data visualization.</h3>
-<img align="right" alt="Coding" width="650" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+<img align="right" alt="Coding" width="450" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
+- 🔭 I’m currently working on **Deep Learning Projects**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-khan-mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="salman-khan-mohammed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman-khan-mohammed" alt="salman-khan-mohammed" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/salmanmohamm3d" target="blank"><img src="https://img.shields.io/twitter/follow/salmanmohamm3d?logo=twitter&style=for-the-badge" alt="salmanmohamm3d" /></a> </p>
-
-- 🔭 I’m currently working on [Recommendor System](https://github.com/Salman-Khan-Mohammed/Recommendor-System)
-
-- 🌱 I’m currently learning **Apache Hadoop, BERT (Bidirectional Encoder Representations from Transformers), Transformers (by Hugging Face)**
-
-- 👯 I’m looking to collaborate on [Recommendor System](https://github.com/Salman-Khan-Mohammed/Recommendor-System)
+- 🌱 I’m currently learning everything about **Docker, Deep Learning, MLOps, Generative AI**
 
 - 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/Salman-Khan-Mohammed?tab=repositories)
 
@@ -31,6 +23,13 @@
 <p align="left">
 <a href="https://twitter.com/salmanmohamm3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salmanmohamm3d" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammed-salman-khan-529177193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-salman-khan-529177193/" height="30" width="40" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-khan-mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="salman-khan-mohammed" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman-khan-mohammed" alt="salman-khan-mohammed" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/salmanmohamm3d" target="blank"><img src="https://img.shields.io/twitter/follow/salmanmohamm3d?logo=twitter&style=for-the-badge" alt="salmanmohamm3d" /></a> </p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
